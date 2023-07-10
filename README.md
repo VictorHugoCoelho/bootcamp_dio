@@ -1,8 +1,4 @@
 # Bootcamp DIO
-# 👋Olá, meu nome é Victor Hugo
+# Repositório destinado aos desafios de código dentro da plataforma da DIO
 
-### 💻Estou iniciando uma graduação Interdisciplinar em ciência e tecnologia e pretendo seguir para a área de desenvolvimento de software, sou iniciante e não domino nenhuma tecnologia mas tenho muita sede de conhecimento e paixão por tecnologia.
-
-## 📍Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victor-hugo-ribeiro-de-almeida-coelho-104700197)
+### Neste repositório serão encontrados todos os desafios de código solicitados dentro da plataforma da DIO, tendo o seu nome sendo o mesmo do nome do desafio solicitado.
